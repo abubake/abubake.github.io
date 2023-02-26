@@ -31,6 +31,8 @@ redirect_from:
 
 # 📰 News
 
+- 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT.
+
 - 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) has been accepted by ICRA 2023 !!!***
 
 - 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023.
@@ -82,7 +84,7 @@ This is a collaborative project on underwater depth estimation with Boxiao Yu, a
 
 ### FSDU-SfM
 - A fast depth-guided semi-dense underwater 3D reconstruction pipeline without a deep learning model. Underwater image restoration is implemented through RMI channel and underwater imaging model to improve the number of feature matches. Reduce the computational complexity of feature extraction by using the depth map as a mask. In order to achieve higher quality(semi-dense) underwater 3D reconstruction, the depth maps are used as the supervision to refine the 3D point cloud and remove noise.  
-This project is my master's thesis, the overall framework has been determined, and most of the subsystems have obtained good results. It is expected that the project will be completed and submitted to IROS in Spring 2023.  
+This project is my master's thesis, we have submitted a journal to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Here is the [video demo](https://youtu.be/roiOpPyAvZ0).  
 
 </div>
 </div>
