@@ -31,7 +31,9 @@ redirect_from:
 
 # 📰 News
 
-- 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT.
+- 2023/05/01: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” has been accepted by IEEE Conference on Artificial Intelligence (IEEE CAI) 2023 !!!***
+
+<!-- - 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT. -->
 
 - 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) has been accepted by ICRA 2023 !!!***
 
