@@ -63,6 +63,15 @@ Supervised by Prof. Islam.
 
 ### Conference Papers
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI (Best Paper Award)*. 2023  
+[[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (has been accepted)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,17 +80,6 @@ Supervised by Prof. Islam.
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (has been accepted)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. ***UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots***. *ICRA*. 2023, pp. 3116-3123, doi: 10.1109/ICRA48891.2023.10161471.  
-[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10161471) [[arXiv]](https://arxiv.org/abs/2209.12358) [[Code]](https://github.com/uf-robopi/UDepth) [[pre-print]](/pdf/2209.12358.pdf)
-
-</div>
-</div>
-
--	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI (Best Paper Award)*. 2023
 
 -	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER. *IGARSS*. 2023  
 
