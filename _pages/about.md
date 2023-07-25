@@ -51,7 +51,7 @@ redirect_from:
 
 # 🎓 Educations 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
->>- ***M.S.(Thesis) in Electrical and Computer Engineering*** --------- *Aug. 2021- Present*  
+>>- ***M.S.[(Thesis)](https://ufdc.ufl.edu/UFE0059937/00001/pdf) in Electrical and Computer Engineering*** --------- *Aug. 2021- Present*  
 Supervised by Prof. Islam.
 
 ><a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="45pt"></a>   ***Zhejiang Sci-Tech University (ZSTU)***
