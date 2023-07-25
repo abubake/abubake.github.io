@@ -31,6 +31,8 @@ redirect_from:
 
 # 📰 News
 
+- 2023/06/06: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” won Best Paper Award at the IEEE Conference on Artificial Intelligence (IEEE CAI) 2023, Santa Clara, California !!!***
+
 - 2023/05/01: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” has been accepted by IEEE Conference on Artificial Intelligence (IEEE CAI) 2023 !!!***
 
 - 2023/04/03: ***Our paper “VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER” has been accepted by IGARSS 2023 !!!***
