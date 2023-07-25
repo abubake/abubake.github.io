@@ -39,7 +39,7 @@ redirect_from:
 
 <!-- - 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT. -->
 
-- 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) has been accepted by ICRA 2023 !!!***
+- 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://ieeexplore.ieee.org/abstract/document/10161471) has been accepted by ICRA 2023 !!!***
 
 - 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023.
 
@@ -67,7 +67,7 @@ Supervised by Prof. Islam.
 <div class='paper-box-text' markdown="1">
 
 -	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots. *ICRA*. 2023, 10.48550/ARXIV.2209.12358  
-[[arXiv]](https://arxiv.org/abs/2209.12358) [[Code]](https://github.com/uf-robopi/UDepth) [[pre-print]](/pdf/2209.12358.pdf)
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10161471) [[arXiv]](https://arxiv.org/abs/2209.12358) [[Code]](https://github.com/uf-robopi/UDepth) [[pre-print]](/pdf/2209.12358.pdf)
 
 </div>
 </div>
@@ -92,9 +92,9 @@ This is a collaborative project on underwater depth estimation with Boxiao Yu, a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Thesis</div><img src='images/FU-SfM_project.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### FSDU-SfM
+### SDU-SfM
 - A fast depth-guided semi-dense underwater 3D reconstruction pipeline without a deep learning model. Underwater image restoration is implemented through RMI channel and underwater imaging model to improve the number of feature matches. Reduce the computational complexity of feature extraction by using the depth map as a mask. In order to achieve higher quality(semi-dense) underwater 3D reconstruction, the depth maps are used as the supervision to refine the 3D point cloud and remove noise.  
-This project is my master's thesis, we have submitted a journal to the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Here is the [video demo](https://youtu.be/roiOpPyAvZ0).  
+This project is my master's thesis, we have submitted a journal to the IEEE Transactions on Artificial Intelligence (TAI). Here is the [video demo](https://youtu.be/roiOpPyAvZ0).  
 
 </div>
 </div>
