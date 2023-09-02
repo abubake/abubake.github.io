@@ -24,6 +24,7 @@ redirect_from:
 - General Environment Vision: Make computer vision systems more robust to the environment (scattering media, bad weather)
 - Low-cost 3D reconstruction and depth estimation in scattering medium
 - Active Vision: Feedback control through vision
+
 <!-- - The application of computer vision in the medical field (including but not limited to medical image processing, pathological image segmentation, image enhancement)
 - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation
 - Surgical robot: Enable surgical robots to have accurate multi-modal fusion perception ability and precise motion control and can perform precise surgery according to the instructions analyzed by doctors or AI -->
