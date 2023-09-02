@@ -23,9 +23,10 @@ redirect_from:
 ***My research interest includes:***
 - General Environment Vision: Make computer vision systems more robust to the environment (scattering media, bad weather)
 - Low-cost 3D reconstruction and depth estimation in scattering medium
-- The application of computer vision in the medical field (including but not limited to medical image processing, pathological image segmentation, image enhancement)
+- Active Vision: Feedback control through vision
+<!-- - The application of computer vision in the medical field (including but not limited to medical image processing, pathological image segmentation, image enhancement)
 - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation
-- Surgical robot: Enable surgical robots to have accurate multi-modal fusion perception ability and precise motion control and can perform precise surgery according to the instructions analyzed by doctors or AI
+- Surgical robot: Enable surgical robots to have accurate multi-modal fusion perception ability and precise motion control and can perform precise surgery according to the instructions analyzed by doctors or AI -->
 
 [***Latest CV's link***](/pdf/PhD Application-CV(latest version)-Jiayi Wu.pdf)
 
@@ -50,9 +51,13 @@ redirect_from:
 - 2022/01/10: Join Professor Judge's Remote Sensing Lab (as Graduate Student Assistant) and be responsible for the development of a large-scale automated generation of 3D plant models.
 
 # 🎓 Educations 
+><a href="https://www.cs.umd.edu/"><img class="svg" src="/images/UMD_logo.jpg" width="45pt"></a>  ***University of Maryland, College Park***
+>>- ***Ph.D. in Computer Science*** --------- *Aug. 2023- Present*  
+Supervised by Prof. Yiannis Aloimonos.
+
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
->>- ***M.S.[(Thesis)](https://ufdc.ufl.edu/UFE0059937/00001/pdf) in Electrical and Computer Engineering*** --------- *Aug. 2021- Present*  
-Supervised by Prof. Islam.
+>>- ***M.S.[(Thesis)](https://ufdc.ufl.edu/UFE0059937/00001/pdf) in Electrical and Computer Engineering*** --------- *Aug. 2021- May. 2023*  
+Supervised by Prof. Md Jahidul Islam.
 
 ><a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="45pt"></a>   ***Zhejiang Sci-Tech University (ZSTU)***
 >>- ***B.E. in Mechatronic Engineering*** --------- *Sept. 2017- Jun. 2021*  
@@ -67,7 +72,7 @@ Supervised by Prof. Islam.
 <div class='paper-box-text' markdown="1">
 
 -	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI (Best Paper Award)*. 2023  
-[[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10195131) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
 
 </div>
 </div>
