@@ -57,6 +57,7 @@ Welcome to my academic homepage. I am Jiayi Wu, a Ph.D. student supervised by [P
 - 2022/01/10: Join Professor Judge's Remote Sensing Lab (as Graduate Student Assistant) and be responsible for the development of a large-scale automated generation of 3D plant models.
 
 # 🎓 Educations 
+
 ><a href="https://www.cs.umd.edu/"><img class="svg" src="/images/UMD_logo.jpg" width="45pt"></a>  ***University of Maryland, College Park***
 >>- ***Ph.D. in Computer Science*** --------- *Aug. 2023- Present*  
 Supervised by Prof. Yiannis Aloimonos.
@@ -68,9 +69,8 @@ Supervised by Prof. Md Jahidul Islam.
 ><a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="45pt"></a>   ***Zhejiang Sci-Tech University (ZSTU)***
 >>- ***B.E. in Mechatronic Engineering*** --------- *Sept. 2017- Jun. 2021*  
 2021 Outstanding Graduate, Zhejiang Sci-Tech University
- 
 
-# 📝 Publications and Patents 
+# 📝 Publications 
 
 ### Conference Papers
 ---
@@ -99,15 +99,14 @@ Supervised by Prof. Md Jahidul Islam.
 - `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
 [[UFDC]](https://ufdc.ufl.edu/UFE0059937/00001/pdf)
 
-- A. K. Roberts, `J. Wu`, A. Monsivais-Huertero, J. Judge, R. C. Moore and K. Sarabandi, "Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-11, 2024, Art no. 2000511, doi: 10.1109/TGRS.2023.3340198.
+- A. K. Roberts, `J. Wu`, A. Monsivais-Huertero, J. Judge, R. C. Moore and K. Sarabandi, ***Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver***, *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-11, 2024, Art no. 2000511, doi: 10.1109/TGRS.2023.3340198.  
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10347257)
 
-### Patents
----
+# 📖 Patents
 
-- Stilt type deformation wheel [CN212400777U](https://patents.google.com/patent/CN212400777U)
+- [CN212400777U](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel
 
-- Unmanned automobile automatic charging system and charging docking method [CN113511087A](https://patents.google.com/patent/CN113511087A)
+- [CN113511087A](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method 
 
 # 📃 Projects 
 
@@ -169,5 +168,6 @@ Remote Sensing Laboratory at University of Florida, Gainesville, FL, United Stat
 # 💬 Academic Services
 ### Reviewer
 ---
-- 2023 IEEE International Conference on Robotics and Automation (ICRA)
-- 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023) 
+- 2023/2024 IEEE International Conference on Robotics and Automation (ICRA)
+- 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- IEEE Journal of Oceanic Engineering (IEEE JOE)
