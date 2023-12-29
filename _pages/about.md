@@ -70,7 +70,7 @@ Supervised by Prof. Md Jahidul Islam.
 2021 Outstanding Graduate, Zhejiang Sci-Tech University
  
 
-# 📝 Publications 
+# 📝 Publications and Patents 
 
 ### Conference Papers
 ---
@@ -92,10 +92,13 @@ Supervised by Prof. Md Jahidul Islam.
 </div>
 </div>
 
+-	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER. *IGARSS*. 2023  
+
+### Journals and Thesis
+
 - `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
 [[UFDC]](https://ufdc.ufl.edu/UFE0059937/00001/pdf)
 
--	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER. *IGARSS*. 2023  
 
 # 📃 Projects 
 
