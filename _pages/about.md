@@ -104,9 +104,9 @@ Supervised by Prof. Md Jahidul Islam.
 
 # 📖 Patents
 
-- [CN212400777U](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel
+- [[CN212400777U]](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel
 
-- [CN113511087A](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method 
+- [[CN113511087A]](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method 
 
 # 📃 Projects 
 
