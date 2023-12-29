@@ -38,6 +38,8 @@ Welcome to my academic homepage. I am Jiayi Wu, a Ph.D. student supervised by [P
 
 # 📰 News
 
+- 2023/12/07: ***Our paper “Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver” has been published in the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) !!!***
+
 - 2023/06/06: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” won Best Paper Award at the IEEE Conference on Artificial Intelligence (IEEE CAI) 2023, Santa Clara, California !!!***
 
 - 2023/05/01: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” has been accepted by IEEE Conference on Artificial Intelligence (IEEE CAI) 2023 !!!***
@@ -48,7 +50,7 @@ Welcome to my academic homepage. I am Jiayi Wu, a Ph.D. student supervised by [P
 
 - 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://ieeexplore.ieee.org/abstract/document/10161471) has been accepted by ICRA 2023 !!!***
 
-- 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023.
+<!-- - 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023. -->
 
 - 2022/08/23: Completed the summer internship at Vobile and got a return offer (recommended by Dr. Zhao).
 
@@ -60,11 +62,11 @@ Welcome to my academic homepage. I am Jiayi Wu, a Ph.D. student supervised by [P
 
 ><a href="https://www.cs.umd.edu/"><img class="svg" src="/images/UMD_logo.jpg" width="45pt"></a>  ***University of Maryland, College Park***
 >>- ***Ph.D. in Computer Science*** --------- *Aug. 2023- Present*  
-Supervised by Prof. Yiannis Aloimonos.
+Supervised by [Prof. Yiannis Aloimonos](http://users.umiacs.umd.edu/~yiannis/).
 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
 >>- ***M.S.[(Thesis)](https://ufdc.ufl.edu/UFE0059937/00001/pdf) in Electrical and Computer Engineering*** --------- *Aug. 2021- May. 2023*  
-Supervised by Prof. Md Jahidul Islam.
+Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 
 ><a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="45pt"></a>   ***Zhejiang Sci-Tech University (ZSTU)***
 >>- ***B.E. in Mechatronic Engineering*** --------- *Sept. 2017- Jun. 2021*  
@@ -104,7 +106,7 @@ Supervised by Prof. Md Jahidul Islam.
 
 # 📖 Patents
 
-- [[CN212400777U]](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel
+- [[CN212400777U]](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel  
 
 - [[CN113511087A]](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method 
 
