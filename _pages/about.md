@@ -95,10 +95,16 @@ Supervised by Prof. Md Jahidul Islam.
 -	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER. *IGARSS*. 2023  
 
 ### Journals and Thesis
-
+---
 - `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
 [[UFDC]](https://ufdc.ufl.edu/UFE0059937/00001/pdf)
 
+### Patents
+---
+
+- Stilt type deformation wheel [CN212400777U](https://patents.google.com/patent/CN212400777U)
+
+- Unmanned automobile automatic charging system and charging docking method [CN113511087A](https://patents.google.com/patent/CN113511087A)
 
 # 📃 Projects 
 
