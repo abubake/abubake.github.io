@@ -92,12 +92,15 @@ Supervised by Prof. Md Jahidul Islam.
 </div>
 </div>
 
--	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER. *IGARSS*. 2023  
+-	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS*. 2023  
 
 ### Journals and Thesis
 ---
 - `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
 [[UFDC]](https://ufdc.ufl.edu/UFE0059937/00001/pdf)
+
+- A. K. Roberts, `J. Wu`, A. Monsivais-Huertero, J. Judge, R. C. Moore and K. Sarabandi, "Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-11, 2024, Art no. 2000511, doi: 10.1109/TGRS.2023.3340198.
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10347257)
 
 ### Patents
 ---
