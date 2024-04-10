@@ -38,6 +38,8 @@ Welcome to my academic homepage. I am Jiayi Wu, a Ph.D. student supervised by [P
 
 # 📰 News
 
+- 2024/03/15: Our paper [“MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation”](https://arxiv.org/abs/2403.09850) has been submitted to IROS 2024.
+- 
 - 2023/12/07: ***Our paper [“Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver”](https://ieeexplore.ieee.org/document/10347257) has been published in the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) !!!***
 
 - 2023/06/06: ***Our paper [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://ieeexplore.ieee.org/document/10195131) won Best Paper Award at the IEEE Conference on Artificial Intelligence (IEEE CAI) 2023, Santa Clara, California !!!***
