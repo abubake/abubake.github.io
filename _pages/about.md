@@ -21,14 +21,14 @@ redirect_from:
 
 <!-- ***Jiayi Wu*** is a member of the [RoboPI](https://robopi.ece.ufl.edu/people.html#Grad) lab, he is a master’s student(thesis) in ECE Department of the University of Florida. His research focus is on low-cost 3D reconstruction and depth estimation in scattering medium. He is currently working on wraping up his master thesis project under the supervision of Prof. Islam. The primaly research goal of his thesis is to formulate a fast and robust underwater 3D reconstruction algorithm based on the fusion of SfM algorithm and deep learning. He is also collaboraing with other students across the lab to make it lightweight and deployable on low-power robotic systems. -->
 
-Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/) in the [APRILab (Active Perception and Robot Intelligence Lab)](http://prg.cs.umd.edu/), [University of Maryland, College Park](hhttps://janeshin-website.github.io/). My research focuses on computer vision and robotics, specifically in the areas of active vision, field robotics, and underwater 3D vision. Inspired by nature, I am dedicated to creating innovative robot perception systems that challenge existing paradigms and redefine the future of robotics. 
+Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/) in the [APRILab (Active Perception and Robot Intelligence Lab)](https://janeshin-website.github.io/), [University of Florida, Gainesville](https://www.ufl.edu/). My research is focused on data-driven robot planning and 3D mapping. My research seeks to combine the domains of deep learning, uncertainty quantification, path planning, and 3D reconstruction. Some areas of interest are Neural Radiance Fields, planning algorithms, SLAM, and Model Predictive Control. Through my research I'm seeking to enhance our ability to use robotics as a tool to better map and track changes in the environment around us.
 
 <!-- <a href='https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 ***My research interest includes:***
-- General Environment Vision: Make computer vision systems more robust to the environment (scattering media, bad weather)
-- Low-cost 3D reconstruction and depth estimation in scattering medium
-- Active Vision: Feedback control through vision
+- Photorealistic Robot Mapping
+- Underwater perception platforms
+- 3D Change detection
 
 <!-- - The application of computer vision in the medical field (including but not limited to medical image processing, pathological image segmentation, image enhancement) -->
 <!-- - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation -->
@@ -38,7 +38,11 @@ Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof
 
 # 📰 News
 
-- 2024/06/06: Our paper [“Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion”](https://arxiv.org/abs/2406.02972) has been submitted to CoRL 2024.
+2024/07/08: Started internship at Texas Instruments in Dallas working on image-based BEV
+
+2024/05/15: Started working on 3D-change detection at the UF Research Engineering and Education Facility (REEF)
+
+<!-- - 2024/06/06: Our paper [“Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion”](https://arxiv.org/abs/2406.02972) has been submitted to CoRL 2024.
 
 - 2024/03/15: Our paper [“MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation”](https://arxiv.org/abs/2403.09850) has been submitted to IROS 2024.
   
@@ -48,7 +52,7 @@ Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof
 
 - 2023/05/01: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” has been accepted by IEEE Conference on Artificial Intelligence (IEEE CAI) 2023 !!!***
 
-- 2023/04/03: ***Our paper “VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER” has been accepted by IGARSS 2023 !!!***
+- 2023/04/03: ***Our paper “VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER” has been accepted by IGARSS 2023 !!!*** -->
 
 <!-- - 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT. -->
 
@@ -56,25 +60,21 @@ Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof
 
 <!-- - 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023. -->
 
-- 2022/08/23: Completed the summer internship at Vobile and got a return offer (recommended by Dr. Zhao).
+<!-- - 2022/08/23: Completed the summer internship at Vobile and got a return offer (recommended by Dr. Zhao).
 
 - 2022/05/23: Joined the team of [Dr. Zhao (CTO of Vobile)](https://vobile.com/about/jian-zhao/) of Vobile as an audio and video algorithm development engineer (summer internship).
 
-- 2022/01/10: Join [Professor Judge](https://abe.ufl.edu/people/faculty/jasmeet-judge/)'s Remote Sensing Lab (as Graduate Student Assistant) and be responsible for the development of a large-scale automated generation of 3D plant models.
+- 2022/01/10: Join [Professor Judge](https://abe.ufl.edu/people/faculty/jasmeet-judge/)'s Remote Sensing Lab (as Graduate Student Assistant) and be responsible for the development of a large-scale automated generation of 3D plant models. -->
 
-# 🎓 Educations 
+# 🎓 Education
 
-><a href="https://www.cs.umd.edu/"><img class="svg" src="/images/UMD_logo.jpg" width="45pt"></a>  ***University of Maryland, College Park***
->>- ***Ph.D. in Computer Science*** --------- *Aug. 2023- Present*  
-Supervised by [Prof. Yiannis Aloimonos](http://users.umiacs.umd.edu/~yiannis/).
+><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
+>>- ***PhD. in Mechanical and Aerospace Engineering*** --------- *Aug. 2022- Present*  
+Supervised by [Prof. Jane Shin](https://jahid.ece.ufl.edu/).
 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
 >>- ***M.S.[(Thesis)](https://ufdc.ufl.edu/UFE0059937/00001/pdf) in Electrical and Computer Engineering*** --------- *Aug. 2021- May. 2023*  
 Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
-
-><a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="45pt"></a>   ***Zhejiang Sci-Tech University (ZSTU)***
->>- ***B.E. in Mechatronic Engineering*** --------- *Sept. 2017- Jun. 2021*  
-2021 Outstanding Graduate, Zhejiang Sci-Tech University
 
 # 📝 Publications 
 
