@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Baker Herrin"
-description              : "Current Ph.D. Student in APRILab(Perception and Robotics Group) Lab."
-repository               : "Jiayi-Wu-Leo/Jiayi-Wu-Leo.github.io"
+description              : "Current Ph.D. Student in APRILab(Active Perception and Robot Intelligence Lab)."
+repository               : "abubake/abubake.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiayi Wu"
+  name             : "Baker Herrin"
   avatar           : "images/Personal Icon.png"
   bio              : "University of Florida, Gainesville"
   location         : "Gainesville, FL, US"
   employer         : #"Perception & Robotics Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl"
-  email            : "jiayiwu@umd.edu"
+  email            : "eherrin@ufl.edu"
   researchgate     :
   uri              : 
   bitbucket        :
