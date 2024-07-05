@@ -56,7 +56,7 @@ Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof
 
 <!-- - 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT. -->
 
-- 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://ieeexplore.ieee.org/abstract/document/10161471) has been accepted by ICRA 2023 !!!***
+<!-- - 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://ieeexplore.ieee.org/abstract/document/10161471) has been accepted by ICRA 2023 !!!*** -->
 
 <!-- - 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023. -->
 
@@ -73,14 +73,13 @@ Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof
 Supervised by [Prof. Jane Shin](https://jahid.ece.ufl.edu/).
 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
->>- ***M.S.[(Thesis)](https://ufdc.ufl.edu/UFE0059937/00001/pdf) in Electrical and Computer Engineering*** --------- *Aug. 2021- May. 2023*  
-Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
+>>- ***B.S in Electrical and Computer Engineering*** --------- *June. 2017- Dec 2021*  
 
 # 📝 Publications 
 
 ### Conference Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/SDU_SfM.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/SDU_SfM.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI (Best Paper Award)*. 2023  
@@ -98,11 +97,11 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 </div>
 </div>
 
--	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS*. 2023  
+-	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS*. 2023   -->
 
 ### Journals and Thesis
 ---
-- `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
+<!-- - `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
 [[UFDC]](https://ufdc.ufl.edu/UFE0059937/00001/pdf)
 
 - A. K. Roberts, `J. Wu`, A. Monsivais-Huertero, J. Judge, R. C. Moore and K. Sarabandi, ***Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver***, *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-11, 2024, Art no. 2000511, doi: 10.1109/TGRS.2023.3340198.  
@@ -112,11 +111,11 @@ Supervised by [Prof. Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 
 - [[CN212400777U]](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel  
 
-- [[CN113511087A]](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method 
+- [[CN113511087A]](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method  -->
 
 # 📃 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/Depth_estimation_project.jpeg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/Depth_estimation_project.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### UDepth
@@ -144,36 +143,36 @@ This project is my master's thesis, we have submitted a journal to the IEEE Tran
 - An learning-based infringing video retrieval system based on the fusion of global features and local features. I did a summer internship in the Vobile’s R&D department under the supervision of Dr. Zhao, CTO of Vobile. I built a learning-based infringing video retrieval system based on the fusion of global features and local features. I used Vobile's video database to train the model, and achieved good performance. Before I ended my internship, I put it together into a python package and organize each component in the system into an easy-to-use python toolkit. I also wrote the manual of the package and a document about future optimization steps to finally handed over to the person who took over the project.  
 
 </div>
-</div>
+</div> -->
 
 
 # 🏭 Job Experience
 
-- ***Digital Audio and Video Algorithm Engineer*** --------- *May. 2022- Aug. 2022*  
+<!-- - ***Digital Audio and Video Algorithm Engineer*** --------- *May. 2022- Aug. 2022*  
 Vobile, Santa Clara, CA, United States.
 
 - ***Graduate Student Assistant*** --------- *Jan. 2022- present*  
-Remote Sensing Laboratory at University of Florida, Gainesville, FL, United States.
+Remote Sensing Laboratory at University of Florida, Gainesville, FL, United States. -->
 
 # 🏅 Honors and Awards
 
 ### SCHOLARSHIPS
 ---
-- *2020.12* Zhejiang Government Scholarship
+<!-- - *2020.12* Zhejiang Government Scholarship
 - *2019.09* First Class School Financial Aid for Overseas Exchange Program
-- *2018.12* Zhejiang Government Scholarship
+- *2018.12* Zhejiang Government Scholarship -->
 
 ### COMPETITIONS
 ---
-- *2021.06* Individual `1st Prize` in the National University Graduate Design Competition (Only two people won this award nationwide) 06/2021
+<!-- - *2021.06* Individual `1st Prize` in the National University Graduate Design Competition (Only two people won this award nationwide) 06/2021
 - *2019.10* Provincial `1st Prize` of National 3D Digital Innovative Design Competition
 - *2019.09* `2nd Prize` of National 3dds Competition Classic
 - *2019.06* `3rd Prize` of The 16th Zhejiang Province Mechanical Design Competition for College Student
-- *2019.04* `3rd Prize` of The Challenge Cup Extracurricular Academic Works Competition
+- *2019.04* `3rd Prize` of The Challenge Cup Extracurricular Academic Works Competition -->
 
 # 💬 Academic Services
-### Reviewer
+<!-- ### Reviewer
 ---
 - 2023/2024 IEEE International Conference on Robotics and Automation (ICRA)
 - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-- IEEE Journal of Oceanic Engineering (IEEE JOE)
+- IEEE Journal of Oceanic Engineering (IEEE JOE) -->
