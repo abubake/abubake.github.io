@@ -85,8 +85,8 @@ Diver and Robot Teaming" to IROS 2025 for review
 # 🎓 Education
 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
->>- ***PhD. in Mechanical and Aerospace Engineering*** --------- *Aug. 2022- Present*  
-Supervised by [Prof. Jane Shin](https://jahid.ece.ufl.edu/).
+>>- ***M.S. in Mechanical Engineering*** --------- *Aug. 2022- Dec 2024*  
+Supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/name/jane-jaejeong-shin/).
 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
 >>- ***B.S in Electrical and Computer Engineering*** --------- *June. 2017- Dec 2021*  
