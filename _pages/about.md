@@ -21,14 +21,18 @@ redirect_from:
 
 <!-- ***Jiayi Wu*** is a member of the [RoboPI](https://robopi.ece.ufl.edu/people.html#Grad) lab, he is a master’s student(thesis) in ECE Department of the University of Florida. His research focus is on low-cost 3D reconstruction and depth estimation in scattering medium. He is currently working on wraping up his master thesis project under the supervision of Prof. Islam. The primaly research goal of his thesis is to formulate a fast and robust underwater 3D reconstruction algorithm based on the fusion of SfM algorithm and deep learning. He is also collaboraing with other students across the lab to make it lightweight and deployable on low-power robotic systems. -->
 
-Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/) in the [APRILab (Active Perception and Robot Intelligence Lab)](https://janeshin-website.github.io/), [University of Florida, Gainesville](https://www.ufl.edu/). My research is focused on data-driven robot planning and 3D mapping. My research seeks to combine the domains of deep learning, uncertainty quantification, path planning, and 3D reconstruction. Some areas of interest are Neural Radiance Fields, planning algorithms, SLAM, and Model Predictive Control. Through my research I'm seeking to enhance our ability to use robotics as a tool to better map and track changes in the environment around us.
+Hi! Welcome to my website. I'm Baker Herrin, currenlty a graduate research assistant supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/) in the [APRILab (Active Perception and Robot Intelligence Lab)](https://janeshin-website.github.io/), [University of Florida, Gainesville](https://www.ufl.edu/).
+
+My career interests are in deep learning, embedded/edge devices, robotics software (and their intersection).
+
+<!-- My research is focused on data-driven robot planning and 3D mapping. My research seeks to combine the domains of deep learning, uncertainty quantification, path planning, and 3D reconstruction. Some areas of interest are Neural Radiance Fields, planning algorithms, SLAM, and Model Predictive Control. Through my research I'm seeking to enhance our ability to use robotics as a tool to better map and track changes in the environment around us. -->
 
 <!-- <a href='https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
-***My research interest includes:***
+<!-- ***My research interest includes:***
 - Photorealistic Robot Mapping
 - Underwater perception platforms
-- 3D Change detection
+- 3D Change detection -->
 
 <!-- - The application of computer vision in the medical field (including but not limited to medical image processing, pathological image segmentation, image enhancement) -->
 <!-- - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation -->
@@ -38,9 +42,21 @@ Hi! Welcome to my website. I'm Baker Herrin, a Ph.D. student supervised by [Prof
 
 # 📰 News
 
-2024/07/08: Started internship at Texas Instruments in Dallas working on image-based BEV
+<!--- --->
+04/16/2025: Presented our work "Lessons from RAITE: Real-World Evaluation of Robust
+Multi-Modal Target Detection and Tracking Under
+Adversarial Attacks" at SPIE Defense + Commercial Sensing Conference in Orlando, FL
 
-2024/05/15: Started working on 3D-change detection at the UF Research Engineering and Education Facility (REEF)
+03/01/2025: Submitted our work "Action Recognition for Underwater Gesture Communication in Human
+Diver and Robot Teaming" to IROS 2025 for review
+
+11/17/2024: Released YouTube a 30 minute explainer seminar on Radiance Fields (Neural Radiance Fields and Gaussian Splatting) https://www.youtube.com/watch?v=ilQt81cONXE&t=1749s
+
+10/25/24: Competed in NSWC Crane Division's Robust AI Test event Scenario 2 in Muscatatuck, IN
+
+07/08/2024: Started internship at Texas Instruments in Dallas working on BEVFusion 3D object detection
+
+05/15/2024: Started working on 3D-change detection with Neural Radiance Fields at the UF Research Engineering and Education Facility (REEF)
 
 <!-- - 2024/06/06: Our paper [“Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion”](https://arxiv.org/abs/2406.02972) has been submitted to CoRL 2024.
 
@@ -75,43 +91,6 @@ Supervised by [Prof. Jane Shin](https://jahid.ece.ufl.edu/).
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
 >>- ***B.S in Electrical and Computer Engineering*** --------- *June. 2017- Dec 2021*  
 
-# 📝 Publications 
-
-### Conference Papers
----
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/SDU_SfM.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI (Best Paper Award)*. 2023  
-[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10195131) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (has been accepted)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. ***UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots***. *ICRA*. 2023, pp. 3116-3123, doi: 10.1109/ICRA48891.2023.10161471.  
-[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10161471) [[arXiv]](https://arxiv.org/abs/2209.12358) [[Code]](https://github.com/uf-robopi/UDepth) [[pre-print]](/pdf/2209.12358.pdf)
-
-</div>
-</div>
-
--	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS*. 2023   -->
-
-### Journals and Thesis
----
-<!-- - `Wu, Jiayi`. ***Low-Cost Depth Estimation and 3D Reconstruction in Scattering Medium***. *Master's Thesis*. 2023  
-[[UFDC]](https://ufdc.ufl.edu/UFE0059937/00001/pdf)
-
-- A. K. Roberts, `J. Wu`, A. Monsivais-Huertero, J. Judge, R. C. Moore and K. Sarabandi, ***Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver***, *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1-11, 2024, Art no. 2000511, doi: 10.1109/TGRS.2023.3340198.  
-[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10347257)
-
-# 📖 Patents
-
-- [[CN212400777U]](https://patents.google.com/patent/CN212400777U) Stilt type deformation wheel  
-
-- [[CN113511087A]](https://patents.google.com/patent/CN113511087A) Unmanned automobile automatic charging system and charging docking method  -->
 
 # 📃 Projects 
 
@@ -145,34 +124,44 @@ This project is my master's thesis, we have submitted a journal to the IEEE Tran
 </div>
 </div> -->
 
-
 # 🏭 Job Experience
 
-<!-- - ***Digital Audio and Video Algorithm Engineer*** --------- *May. 2022- Aug. 2022*  
-Vobile, Santa Clara, CA, United States.
+- ***Graduate Research Assistant*** --------- *August. 2022- present*  
+Active Perception and Robot Intelligence Lab (APRILab) at University of Florida, Gainesville, FL, United States.
 
-- ***Graduate Student Assistant*** --------- *Jan. 2022- present*  
-Remote Sensing Laboratory at University of Florida, Gainesville, FL, United States. -->
+- ***Applications Engineering Intern*** --------- *July. 2024- August 2024*  
+Embedded Processing, Jacinto Software Applications at Texas Instruments, Dallas, TX, United States.
 
-# 🏅 Honors and Awards
+- ***Research Intern*** --------- *May. 2024- July 2024*  
+3D Change Detection at UF REEF, Ft. Walton, FL, United States.
 
-### SCHOLARSHIPS
----
-<!-- - *2020.12* Zhejiang Government Scholarship
-- *2019.09* First Class School Financial Aid for Overseas Exchange Program
-- *2018.12* Zhejiang Government Scholarship -->
+- ***Validation Engineering Intern*** --------- *May. 2023- August 2023*  
+Analog Signal Chain, Transcievers validation at Texas Instruments, Dallas, TX, United States.
 
-### COMPETITIONS
----
-<!-- - *2021.06* Individual `1st Prize` in the National University Graduate Design Competition (Only two people won this award nationwide) 06/2021
-- *2019.10* Provincial `1st Prize` of National 3D Digital Innovative Design Competition
-- *2019.09* `2nd Prize` of National 3dds Competition Classic
-- *2019.06* `3rd Prize` of The 16th Zhejiang Province Mechanical Design Competition for College Student
-- *2019.04* `3rd Prize` of The Challenge Cup Extracurricular Academic Works Competition -->
+- ***Validation Engineering Intern*** --------- *May. 2022- August 2022*  
+Analog Signal Chain, Transcievers validation at Texas Instruments, Dallas, TX, United States.
 
-# 💬 Academic Services
-<!-- ### Reviewer
----
-- 2023/2024 IEEE International Conference on Robotics and Automation (ICRA)
-- 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-- IEEE Journal of Oceanic Engineering (IEEE JOE) -->
+- ***Teaching Assistant*** --------- *August. 2019- May 2022*  
+EEL311C Laboratory Instructor at University of Florida, Gainesville, FL, United States.
+
+# 📝 Publications 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/SDU_SfM.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Wu, Jiayi`, Yu, Boxiao, Islam, Md Jahidul. ***3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection***. *IEEE CAI (Best Paper Award)*. 2023  
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10195131) [[Poster]](https://robopi.ece.ufl.edu/files/pubs/sdu_sfm.pdf) [[Video demo]](https://youtu.be/roiOpPyAvZ0)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (has been accepted)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. ***UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots***. *ICRA*. 2023, pp. 3116-3123, doi: 10.1109/ICRA48891.2023.10161471.  
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10161471) [[arXiv]](https://arxiv.org/abs/2209.12358) [[Code]](https://github.com/uf-robopi/UDepth) [[pre-print]](/pdf/2209.12358.pdf)
+
+</div>
+</div>
+
+-	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS*. 2023   -->

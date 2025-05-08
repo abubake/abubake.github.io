@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Baker Herrin"
-description              : "Current Ph.D. Student in APRILab(Active Perception and Robot Intelligence Lab)."
+title                    : "E. Baker Herrin"
+description              : "Current Graduate Research Assistant at the Active Perception and Robot Intelligence Lab (APRILab)."
 repository               : "abubake/abubake.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,8 +27,8 @@ author:
   location         : "Gainesville, FL, US"
   employer         : #"Perception & Robotics Group"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl"
-  email            : "eherrin@ufl.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=RxhLSRkAAAAJ&hl=en"
+  email            : "bakerherrin2@gmail.com"
   researchgate     :
   uri              : 
   bitbucket        :
@@ -43,15 +43,15 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : "https://www.linkedin.com/in/bakerherrin/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0004-6601-4963"
+  # orcid            : "https://orcid.org/0009-0004-6601-4963"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : ""
+  # twitter          : ""
   vine             :
   weibo            :
   xing             :
