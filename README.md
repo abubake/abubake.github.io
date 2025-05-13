@@ -1,6 +1,7 @@
 # bakerHerrin.github.io
 
 To compile the website: 
+
 - bundle exec jekyll serve --livereload
 
 To view locally, once compiled a URL will be generated.

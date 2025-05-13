@@ -94,9 +94,13 @@ Supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/name/jane-jaejeong-sh
 
 # 📃 Projects 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/Depth_estimation_project.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/deployment_br2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/tinkering_br2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- 
 ### UDepth
 - A monocular underwater depth estimation pipeline, using RMI as the input space, constructs a lightweight domain projection module, a lightweight CNN feature extraction module, and a lightweight Transformer-based depth estimation network. And the depth estimation network is supervised with knowledge of underwater light attenuation as a prior. The results show that our depth estimation accuracy is close to the SOTA model, and much faster than them.  
 This is a collaborative project on underwater depth estimation with Boxiao Yu, a Ph.D. student in RoboPI lab.  
