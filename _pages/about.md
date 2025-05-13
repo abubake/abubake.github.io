@@ -25,24 +25,17 @@ Hi! Welcome to my website. I'm Baker Herrin, currenlty a graduate research assis
 
 My career interests are in deep learning, embedded/edge devices, robotics software (and their intersection).
 
-<!-- My research is focused on data-driven robot planning and 3D mapping. My research seeks to combine the domains of deep learning, uncertainty quantification, path planning, and 3D reconstruction. Some areas of interest are Neural Radiance Fields, planning algorithms, SLAM, and Model Predictive Control. Through my research I'm seeking to enhance our ability to use robotics as a tool to better map and track changes in the environment around us. -->
+## Skills
+-  Python, Embedded C, C++, MATLAB, VHDL, ARM assembly, LABVIEW/Teststand
+-  Transformers, CNNs, Neural Radiance Fields (NeRF), Gaussian Splatting (deployed on
+NVIDIA GPUs)
+- PyTorch, Tensorflow, Git, MMDetection3D, Ubuntu Linux, ROS2, Gazebo,
+IsaacSim, Blender, Altium
 
-<!-- <a href='https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
-<!-- ***My research interest includes:***
-- Photorealistic Robot Mapping
-- Underwater perception platforms
-- 3D Change detection -->
+[***Latest CV's link***](/pdf/EBHerrin_CV.pdf)
 
-<!-- - The application of computer vision in the medical field (including but not limited to medical image processing, pathological image segmentation, image enhancement) -->
-<!-- - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation -->
-<!-- - Surgical robot: Enable surgical robots to have accurate multi-modal fusion perception ability and precise motion control and can perform precise surgery according to the instructions analyzed by doctors or AI -->
-
-<!-- [***Latest CV's link***](/pdf/Ph.D_Intern-CV-Jiayi Wu.pdf) -->
-
-# 📰 News
-
-<!--- --->
+<!-- # 📰 News
 04/16/2025: Presented our work "Lessons from RAITE: Real-World Evaluation of Robust
 Multi-Modal Target Detection and Tracking Under
 Adversarial Attacks" at SPIE Defense + Commercial Sensing Conference in Orlando, FL
@@ -56,31 +49,8 @@ Diver and Robot Teaming" to IROS 2025 for review
 
 07/08/2024: Started internship at Texas Instruments in Dallas working on BEVFusion 3D object detection
 
-05/15/2024: Started working on 3D-change detection with Neural Radiance Fields at the UF Research Engineering and Education Facility (REEF)
-
-<!-- - 2024/06/06: Our paper [“Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion”](https://arxiv.org/abs/2406.02972) has been submitted to CoRL 2024.
-
-- 2024/03/15: Our paper [“MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation”](https://arxiv.org/abs/2403.09850) has been submitted to IROS 2024.
-  
-- 2023/12/07: ***Our paper [“Microwave Backscatter Phenomenology of Corn Fields at L-Band Using a Full-Wave Electromagnetic Solver”](https://ieeexplore.ieee.org/document/10347257) has been published in the IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) !!!***
-
-- 2023/06/06: ***Our paper [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://ieeexplore.ieee.org/document/10195131) won Best Paper Award at the IEEE Conference on Artificial Intelligence (IEEE CAI) 2023, Santa Clara, California !!!***
-
-- 2023/05/01: ***Our paper “3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection” has been accepted by IEEE Conference on Artificial Intelligence (IEEE CAI) 2023 !!!***
-
-- 2023/04/03: ***Our paper “VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER” has been accepted by IGARSS 2023 !!!*** -->
-
-<!-- - 2023/02/15: The journal [“3D Reconstruction of Underwater Scenes using Nonlinear Domain Projection”](https://youtu.be/roiOpPyAvZ0) was submitted to IEEE TCSVT. -->
-
-<!-- - 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://ieeexplore.ieee.org/abstract/document/10161471) has been accepted by ICRA 2023 !!!*** -->
-
-<!-- - 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023. -->
-
-<!-- - 2022/08/23: Completed the summer internship at Vobile and got a return offer (recommended by Dr. Zhao).
-
-- 2022/05/23: Joined the team of [Dr. Zhao (CTO of Vobile)](https://vobile.com/about/jian-zhao/) of Vobile as an audio and video algorithm development engineer (summer internship).
-
-- 2022/01/10: Join [Professor Judge](https://abe.ufl.edu/people/faculty/jasmeet-judge/)'s Remote Sensing Lab (as Graduate Student Assistant) and be responsible for the development of a large-scale automated generation of 3D plant models. -->
+05/15/2024: Started working on 3D-change detection with Neural Radiance Fields at the UF Research Engineering and Education Facility (REEF) 
+-->
 
 # 🎓 Education
 
@@ -94,11 +64,53 @@ Supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/name/jane-jaejeong-sh
 
 # 📃 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/deployment_br2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Robust Underwater Robots
+<!--
+Describe all works related to developing autonomous robots
+-->
+Developing deployable underwater robots for tasks such as:
+- Mapping with Gaussian Splatting (3DGS) and Neural Radiance Fields (NeRF)
+- Collaborative diver-robot teaming
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A Collaborative Project</div><img src='images/tinkering_br2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Publications
+- E. Baker Herrin, et. al, “SGD11: A Diver Gesture Recognition Dataset for Underwater Human-Robot Collaboration,”
+in Proc. ICRA 2025 AQ2UASIM Workshop, Atlanta, GA, USA, May 2025.
+<!-- E. Baker Herrin, “Lessons from RAITE: Real-World Evaluation of Robust Multi-Modal Target Detection and
+Tracking Under Adversarial Attacks,” in Proc. SPIE Defense + Commercial Sensing, Orlando, FL, USA, Apr. 2025.
+Presented by author. -->
+- E. Baker Herrin, et. al, “Modularis: Modular Underwater Robot for Rapid Development and Validation of
+Autonomous Systems,” in Proc. OCEANS 2023 Gulf Coast, Biloxi, MS, USA, Sep. 2023.
+https://doi.org/10.23919/OCEANS52994.2023.10337059 Presented by author.
+
+<div class="paper-row">
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">A Collaborative Project</div> -->
+      <img src='images/deployment_br2.png' alt="deployment" width="100%">
+    </div>
+  </div>
+  <!-- <div class='paper-box-text' markdown="1">
+    Field deployment of BlueROV2 collecting data for mapping.
+  </div> -->
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">A Collaborative Project</div> -->
+      <img src='images/tinkering_br2.jpg' alt="tinkering" width="100%">
+    </div>
+  </div>
+  <!-- <div class='paper-box-text' markdown="1">
+    Lab testing and debugging of perception stack on embedded hardware.
+  </div> -->
+</div>
+
+</div>
+
+
 
 <!-- 
 ### UDepth
@@ -148,7 +160,7 @@ Analog Signal Chain, Transcievers validation at Texas Instruments, Dallas, TX, U
 - ***Teaching Assistant*** --------- *August. 2019- May 2022*  
 EEL311C Laboratory Instructor at University of Florida, Gainesville, FL, United States.
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAI 2023 (Best Paper Award)</div><img src='images/SDU_SfM.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
