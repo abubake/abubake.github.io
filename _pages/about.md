@@ -33,7 +33,9 @@ NVIDIA GPUs)
 IsaacSim, Blender, Altium
 
 
-[***Latest CV's link***](/pdf/EBHerrin_CV-1.pdf)
+[***Latest CV's link***](/pdf/Herrin_CV.pdf)
+
+[***Latest Resume link***](/pdf/Herrin_Resume_Perception.pdf)
 
 <!-- # 📰 News
 04/16/2025: Presented our work "Lessons from RAITE: Real-World Evaluation of Robust
