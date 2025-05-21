@@ -32,7 +32,6 @@ NVIDIA GPUs)
 - PyTorch, Tensorflow, Git, MMDetection3D, Ubuntu Linux, ROS2, Gazebo,
 IsaacSim, Blender, Altium
 
-
 [***Latest CV's link***](/pdf/Herrin_CV.pdf)
 
 [***Latest Resume link***](/pdf/Herrin_Resume_Perception.pdf)
