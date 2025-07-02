@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- ***Jiayi Wu*** is a member of the [RoboPI](https://robopi.ece.ufl.edu/people.html#Grad) lab, he is a master’s student(thesis) in ECE Department of the University of Florida. His research focus is on low-cost 3D reconstruction and depth estimation in scattering medium. He is currently working on wraping up his master thesis project under the supervision of Prof. Islam. The primaly research goal of his thesis is to formulate a fast and robust underwater 3D reconstruction algorithm based on the fusion of SfM algorithm and deep learning. He is also collaboraing with other students across the lab to make it lightweight and deployable on low-power robotic systems. -->
 
-Hi! Welcome to my website. I'm Baker Herrin, currenlty a graduate research assistant supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/) in the [APRILab (Active Perception and Robot Intelligence Lab)](https://janeshin-website.github.io/), [University of Florida, Gainesville](https://www.ufl.edu/).
+Hi! Welcome to my website. I'm Baker Herrin, currently a graduate research assistant supervised by [Prof. Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/) in the [APRILab (Active Perception and Robot Intelligence Lab)](https://janeshin-website.github.io/), [University of Florida, Gainesville](https://www.ufl.edu/).
 
 My career interests are in deep learning, embedded/edge devices, robotics software (and their intersection).
 
@@ -32,9 +32,11 @@ NVIDIA GPUs)
 - PyTorch, Tensorflow, Git, MMDetection3D, Ubuntu Linux, ROS2, Gazebo,
 IsaacSim, Blender, Altium
 
-[***Latest CV's link***](/pdf/Herrin_CV.pdf)
+<!-- Add back links when updated -->
 
-[***Latest Resume link***](/pdf/Herrin_Resume_Perception.pdf)
+<!-- [***Latest CV's link***](/pdf/Herrin_CV.pdf)
+
+[***Latest Resume link***](/pdf/Herrin_Resume_Perception.pdf) -->
 
 <!-- # 📰 News
 04/16/2025: Presented our work "Lessons from RAITE: Real-World Evaluation of Robust
