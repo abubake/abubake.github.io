@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "E. Baker Herrin"
-description              : "Current Graduate Research Assistant at the Active Perception and Robot Intelligence Lab (APRILab)."
+description              : "Currently searching for ML/Robotics positions in the Dallas-Fort Worth Metroplex."
 repository               : "abubake/abubake.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Baker Herrin"
+  name             : " E. Baker Herrin"
   avatar           : "images/Personal_icon.jpg"
   bio              : "University of Florida, Gainesville"
   location         : "Gainesville, FL, US"

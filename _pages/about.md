@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- ***Jiayi Wu*** is a member of the [RoboPI](https://robopi.ece.ufl.edu/people.html#Grad) lab, he is a master’s student(thesis) in ECE Department of the University of Florida. His research focus is on low-cost 3D reconstruction and depth estimation in scattering medium. He is currently working on wraping up his master thesis project under the supervision of Prof. Islam. The primaly research goal of his thesis is to formulate a fast and robust underwater 3D reconstruction algorithm based on the fusion of SfM algorithm and deep learning. He is also collaboraing with other students across the lab to make it lightweight and deployable on low-power robotic systems. -->
 
-Hi! Welcome to my website. I'm E. Baker Herrin, AI & Robotics Engineer.
+Hi! Welcome to my website. I'm E. Baker Herrin, ML & Robotics Engineer.
 
 My career interests are in deep learning, embedded/edge devices, robotics software (and their intersection).
 
