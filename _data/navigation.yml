@@ -26,3 +26,6 @@ main:
 
   # - title: "Academic Services"
   #   url: "/#-academic-services"
+
+  - title: "Blog"
+    url: "/blog/"

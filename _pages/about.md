@@ -191,3 +191,12 @@ EEL311C Laboratory Instructor at University of Florida, Gainesville, FL, United 
 </div>
 
 -	A. Kaleo Roberts, Kamal Sarabandi, Jasmeet Judge, Alejandro Monsivais-Huertero, `Jiayi Wu`. ***VALIDATION OF A FULL-WAVE BACKSCATTER MODEL FOR CORN FIELDS USING MEASUREMENTS FROM A GROUND-BASED SCATTEROMETER***. *IGARSS*. 2023   -->
+
+## ✍️ Blog & Thoughts
+I occasionally share technical insights and creative writing. 
+[Browse all posts](/blog/){: .btn .btn--primary}
+
+Recent posts:
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%b %Y" }})
+{% endfor %}
