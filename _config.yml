@@ -4,7 +4,8 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+url: "https://abubake.github.io" # Your actual GitHub Pages URL
+baseurl: "" # Important for user sites (username.github.io)
 # Site Settings
 title                    : "E. Baker Herrin"
 description              : "Currently searching for ML/Robotics positions in the Dallas-Fort Worth Metroplex."
